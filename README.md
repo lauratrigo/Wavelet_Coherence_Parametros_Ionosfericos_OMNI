@@ -91,26 +91,99 @@ wavelet_coherence_omni/
 ├── wavelet_coherence_omni.m      # Script MATLAB principal
 └── README.md                     # Documentação do projeto
 ```
-## 📊 Exemplo de Resultados
+## 📊 Resultados: Todas as 15 Combinações de Coerência Wavelet
 
-Abaixo seguem exemplos ilustrativos das figuras de coerência entre alguns pares de parâmetros:
+A seguir são apresentadas as 15 figuras geradas pelo script, correspondentes a todas as combinações possíveis entre:
 
+- **Bz**
+- **Vsw**
+- **Density**
+- **Ey**
+- **AE**
+- **SYM/H**
+
+---
+
+### 🔹 1. Bz × Vsw
 <div align="center">
-  <h4><strong>Figura 1: Coerência Wavelet — Bz × Velocidade Solar</strong></h4>
   <img src="images/image_bz_vsw.png" alt="Bz x Vsw" style="width:80%; max-width:900px;">
 </div>
 
-<br>
-
+### 🔹 2. Bz × Density
 <div align="center">
-  <h4><strong>Figura 2: Coerência Wavelet — Densidade × Ey</strong></h4>
+  <img src="images/image_bz_density.png" alt="Bz x Density" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 3. Bz × Ey
+<div align="center">
+  <img src="images/image_bz_ey.png" alt="Bz x Ey" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 4. Bz × AE
+<div align="center">
+  <img src="images/image_bz_ae.png" alt="Bz x AE" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 5. Bz × SYM/H
+<div align="center">
+  <img src="images/image_bz_symh.png" alt="Bz x SYM/H" style="width:80%; max-width:900px;">
+</div>
+
+---
+
+### 🔹 6. Vsw × Density
+<div align="center">
+  <img src="images/image_vsw_density.png" alt="Vsw x Density" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 7. Vsw × Ey
+<div align="center">
+  <img src="images/image_vsw_ey.png" alt="Vsw x Ey" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 8. Vsw × AE
+<div align="center">
+  <img src="images/image_vsw_ae.png" alt="Vsw x AE" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 9. Vsw × SYM/H
+<div align="center">
+  <img src="images/image_vsw_symh.png" alt="Vsw x SYM/H" style="width:80%; max-width:900px;">
+</div>
+
+---
+
+### 🔹 10. Density × Ey
+<div align="center">
   <img src="images/image_density_ey.png" alt="Density x Ey" style="width:80%; max-width:900px;">
 </div>
 
-<br>
-
+### 🔹 11. Density × AE
 <div align="center">
-  <h4><strong>Figura 3: Coerência Wavelet — AE × SYM/H</strong></h4>
+  <img src="images/image_density_ae.png" alt="Density x AE" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 12. Density × SYM/H
+<div align="center">
+  <img src="images/image_density_symh.png" alt="Density x SYM/H" style="width:80%; max-width:900px;">
+</div>
+
+---
+
+### 🔹 13. Ey × AE
+<div align="center">
+  <img src="images/image_ey_ae.png" alt="Ey x AE" style="width:80%; max-width:900px;">
+</div>
+
+### 🔹 14. Ey × SYM/H
+<div align="center">
+  <img src="images/image_ey_symh.png" alt="Ey x SYM/H" style="width:80%; max-width:900px;">
+</div>
+
+---
+
+### 🔹 15. AE × SYM/H
+<div align="center">
   <img src="images/image_ae_symh.png" alt="AE x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
