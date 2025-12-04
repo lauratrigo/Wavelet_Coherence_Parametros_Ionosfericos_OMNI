@@ -106,85 +106,85 @@ A seguir são apresentadas as 15 figuras geradas pelo script, correspondentes a 
 
 ### 🔹 1. Bz × Vsw
 <div align="center">
-  <img src="images/image_bz_vsw.png" alt="Bz x Vsw" style="width:80%; max-width:900px;">
+  <img src="images/image_Bz_Vsw.png" alt="Bz x Vsw" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 2. Bz × Density
 <div align="center">
-  <img src="images/image_bz_density.png" alt="Bz x Density" style="width:80%; max-width:900px;">
+  <img src="images/image_Bz_Density.png" alt="Bz x Density" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 3. Bz × Ey
 <div align="center">
-  <img src="images/image_bz_ey.png" alt="Bz x Ey" style="width:80%; max-width:900px;">
+  <img src="images/image_Bz_Ey.png" alt="Bz x Ey" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 4. Bz × AE
 <div align="center">
-  <img src="images/image_bz_ae.png" alt="Bz x AE" style="width:80%; max-width:900px;">
+  <img src="images/image_Bz_Ae.png" alt="Bz x AE" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 5. Bz × SYM/H
 <div align="center">
-  <img src="images/image_bz_symh.png" alt="Bz x SYM/H" style="width:80%; max-width:900px;">
+  <img src="images/image_Bz_SYM_H.png" alt="Bz x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
 ---
 
 ### 🔹 6. Vsw × Density
 <div align="center">
-  <img src="images/image_vsw_density.png" alt="Vsw x Density" style="width:80%; max-width:900px;">
+  <img src="images/image_Vsw_Density.png" alt="Vsw x Density" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 7. Vsw × Ey
 <div align="center">
-  <img src="images/image_vsw_ey.png" alt="Vsw x Ey" style="width:80%; max-width:900px;">
+  <img src="images/image_Vsw_Ey.png" alt="Vsw x Ey" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 8. Vsw × AE
 <div align="center">
-  <img src="images/image_vsw_ae.png" alt="Vsw x AE" style="width:80%; max-width:900px;">
+  <img src="images/image_Vsw_AE.png" alt="Vsw x AE" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 9. Vsw × SYM/H
 <div align="center">
-  <img src="images/image_vsw_symh.png" alt="Vsw x SYM/H" style="width:80%; max-width:900px;">
+  <img src="images/image_Vsw_SYM_H.png" alt="Vsw x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
 ---
 
 ### 🔹 10. Density × Ey
 <div align="center">
-  <img src="images/image_density_ey.png" alt="Density x Ey" style="width:80%; max-width:900px;">
+  <img src="images/image_Density_Ey.png" alt="Density x Ey" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 11. Density × AE
 <div align="center">
-  <img src="images/image_density_ae.png" alt="Density x AE" style="width:80%; max-width:900px;">
+  <img src="images/image_Density_AE.png" alt="Density x AE" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 12. Density × SYM/H
 <div align="center">
-  <img src="images/image_density_symh.png" alt="Density x SYM/H" style="width:80%; max-width:900px;">
+  <img src="images/image_Density_SYM_H.png" alt="Density x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
 ---
 
 ### 🔹 13. Ey × AE
 <div align="center">
-  <img src="images/image_ey_ae.png" alt="Ey x AE" style="width:80%; max-width:900px;">
+  <img src="images/image_Ey_AE.png" alt="Ey x AE" style="width:80%; max-width:900px;">
 </div>
 
 ### 🔹 14. Ey × SYM/H
 <div align="center">
-  <img src="images/image_ey_symh.png" alt="Ey x SYM/H" style="width:80%; max-width:900px;">
+  <img src="images/image_Ey_SYM_H.png" alt="Ey x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
 ---
 
 ### 🔹 15. AE × SYM/H
 <div align="center">
-  <img src="images/image_ae_symh.png" alt="AE x SYM/H" style="width:80%; max-width:900px;">
+  <img src="images/image_AE_SYM_H.png" alt="AE x SYM/H" style="width:80%; max-width:900px;">
 </div>
 
 ## 🤝 Agradecimentos
